@@ -1,4 +1,4 @@
-Above is the open source CAD file on the design of the talking weighing scale done by REACH.
+Above is the open source CAD file on the design of the talking weighing scale done by REACH. The goal of the project was to create an open source, affordable talking weighing scale which could be recreated by any maker's institution in the world.
 
 Below are some images on the cross-section and layout of the weighing scale.
 
