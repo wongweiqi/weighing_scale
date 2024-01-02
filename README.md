@@ -1,4 +1,5 @@
 Above is the open source CAD file on the design of the talking weighing scale done by REACH.
+
 Below are some images on the cross-section and layout of the weighing scale.
 
 ![image](https://github.com/wongweiqi/weighing_scale/assets/80031000/80e0298f-bf7f-4c9b-bf23-beaa82bf50a6)
